@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26798'
     url: http://www.gutenberg.org/2009/agents/26798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24897#The-Great-White-Tribe-in-Filipinia
 gutenberg_issued: '2008-03-22'
 gutenberg_type: Text
 identifiers:
